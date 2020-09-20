@@ -3,10 +3,11 @@
   var sidebar = document.querySelector('#sidebar');
   var checkbox = document.querySelector('#sidebar-checkbox');
   
-  if(screen.width >= 1024) {
+  if(screen.width >= 769) {
     checkbox.checked = true;
     checkbox.style.display = "none";
     toggle.style.display = "none";
+    document.querySelector('.container').style.margin = 0;
   } else {
 
     document.addEventListener('click', function(e) {
