@@ -8,13 +8,11 @@
       checkbox.checked = true;
       toggle.style.display = "none";
       document.querySelectorAll('.container').forEach(x => x.style.margin = 0);
-      console.log(Math.floor(0.75*(screen.width-sidebar.getBoundingClientRect().width)));
-      console.log(document.querySelector('.wrap'));
-      document.querySelector('.wrap').width = Math.floor(0.75*(screen.width-sidebar.getBoundingClientRect().width));
+      document.querySelector('.wrap').style.width = Math.floor(0.75*(screen.width-sidebar.getBoundingClientRect().width));
     } else {
       checkbox.checked = false;
       toggle.style.display = null;
-      document.querySelector('.wrap').width = null;
+      document.querySelector('.wrap').style.width = null;
       document.querySelectorAll('.container').forEach(x => x.style.margin = null);
       document.addEventListener('click', function(e) {
         var target = e.target;
