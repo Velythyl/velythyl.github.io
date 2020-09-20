@@ -5,6 +5,8 @@
   
   if(screen.width >= 1024) {
     checkbox.checked = true;
+    checkbox.style.display = "none";
+    toggle.style.display = "none";
   } else {
 
     document.addEventListener('click', function(e) {
