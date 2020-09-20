@@ -2,6 +2,22 @@
   var toggle = document.querySelector('.sidebar-toggle');
   var sidebar = document.querySelector('#sidebar');
   var checkbox = document.querySelector('#sidebar-checkbox');
+
+  function resize(e) {
+    if(screen.width >= 769) {
+      checkbox.checked = true;
+      toggle.style.display = "none";
+      document.querySelectorAll('.container').forEach(x => x.style.margin = 0);
+    } else {
+      checkbox.checked = false;
+      toggle.style.display = null;
+      document.querySelectorAll('.container').forEach(x => x.style.margin = null);
+    }
+  }
+
+  resize();
+
+  window.addEventListener("resize", resize, false);
   
   document.addEventListener('click', function(e) {
     var target = e.target;
