@@ -8,7 +8,7 @@
       checkbox.checked = true;
       toggle.style.display = "none";
       document.querySelectorAll('.container').forEach(x => x.style.margin = 0);
-      document.querySelector('.wrap').style.width = Math.floor(0.75*(screen.width-sidebar.getBoundingClientRect().width));
+      document.querySelector('.wrap').style.width = Math.floor(0.75*(screen.width-sidebar.getBoundingClientRect().width))+"px";
     } else {
       checkbox.checked = false;
       toggle.style.display = null;
