@@ -12,21 +12,20 @@
       checkbox.checked = false;
       toggle.style.display = null;
       document.querySelectorAll('.container').forEach(x => x.style.margin = null);
+      document.addEventListener('click', function(e) {
+        var target = e.target;
+
+        if(!checkbox.checked ||
+          sidebar.contains(target) ||
+          (target === checkbox || target === toggle)) return;
+
+        checkbox.checked = false;
+      }, false);
     }
   }
 
   resize();
 
   window.addEventListener("resize", resize, false);
-  
-  document.addEventListener('click', function(e) {
-    var target = e.target;
-
-    if(!checkbox.checked ||
-       sidebar.contains(target) ||
-       (target === checkbox || target === toggle)) return;
-
-    checkbox.checked = false;
-  }, false);
   
 })(document);
