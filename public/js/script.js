@@ -7,8 +7,7 @@
     checkbox.checked = true;
     checkbox.style.display = "none";
     toggle.style.display = "none";
-    document.querySelector('.container').style.margin = 0;
-    console.log(document.querySelector('.container'));
+    document.querySelectorAll('.container').forEach(x => x.style.margin = 0);
   } else {
 
     document.addEventListener('click', function(e) {
