@@ -8,10 +8,12 @@
       checkbox.checked = true;
       toggle.style.display = "none";
       document.querySelectorAll('.container').forEach(x => x.style.margin = 0);
-      document.querySelector('.wrap').width = Math.floor(0.75*(screen.width-sidebar.width));
+      console.log(Math.floor(0.75*(screen.getBoundingClientRect().width-sidebar.width)));
+      document.querySelector('.wrap').width = Math.floor(0.75*(screen.getBoundingClientRect().width-sidebar.width));
     } else {
       checkbox.checked = false;
       toggle.style.display = null;
+      document.querySelector('.wrap').width = null;
       document.querySelectorAll('.container').forEach(x => x.style.margin = null);
       document.addEventListener('click', function(e) {
         var target = e.target;
