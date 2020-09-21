@@ -3,27 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This my blog. Expect some techy, comp sci stuff, some robotics fun, and some machine learning joy.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is Charlie Gauthier, and I'm a research master's student at Mila under the tutelage of Dr. Liam Paull. You can 
+check out his awesome Duckietown Foundation [here](https://www.duckietown.org/about/duckietown-foundation).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+My main research interests are optimal control, policy spaces, and robotic control. My main non-research comp-sci interests
+are functional programming (Scala❤️ ), low-level programming, and learning new languages. My main non-research, non-comp-sci
+interests are skateboarding, WoW, and tea.
