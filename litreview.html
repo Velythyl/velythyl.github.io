@@ -1,21 +1,24 @@
 ---
-layout: page
+layout: default
 title: Literature Review
 ---
 
 <div class="posts">
-  {% for post in paginator.litreview.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+  {% for post in paginator.posts %}
+  {% if post.blogtype == 'literaturereview' %}
+      
+	  <div class="post">
+	    <h1 class="post-title">
+	      <a href="{{ post.url | absolute_url }}">
+		{{ post.title }}
+	      </a>
+	    </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+	    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
-  </div>
+	    {{ post.content }}
+	  </div>
+      {% endif %}
   {% endfor %}
 </div>
 
