@@ -1,3 +1,22 @@
+"Paull":
+  - firstname: ["Liam", "L."]
+    url: https://liampaull.ca/
+
+"Berseth":
+  - firstname: ["Glen", "G."]
+    url: https://www.fracturedplane.com/
+
+
+#"Diaz":
+#  - firstname: ["Manfred", "M."]
+#      url: https://manfreddiaz.github.io/
+
+#"Gauthier":
+#  - firstname: ["Charlie", "C.", "Skye", "C.S."]
+#      url: https://velythyl.github.io/
+
+
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

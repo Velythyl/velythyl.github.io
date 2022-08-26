@@ -1,11 +1,24 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: ICLR Blog Track
+description: Blog posts as conference publications
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
+
+During the ICLR Blog Track, participating authors had to select a paper from past ICLR runs. They then wrote a blog post
+on it, either clarifying it, expanding it, or painting it in a different light. The proposal and the actual organization
+were done in collaboration with Sébastien Bubeck (Microsoft), Claire Vernade (Deepmind), Gauthier Gidel (Mila), and David Dobre (Mila).
+
+The ICLR Blog Track 
+
+This first edition of the Blog Track was wildly successful.
+
+
+originated from a discussion I had with
+
+{% twitter https://twitter.com/iclr_conf/status/1437460881047175169?lang=ca %}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
