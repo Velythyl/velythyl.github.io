@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching's fun
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have always been interested in teaching. In fact, my first job was "aquatic safety instructor",
+which is just a glorified title for "swimming instructor".
 
-Organize your courses by years, topics, or universities, however you like!
+Since then, I have taught a number of TA assignments.
+
+- [Operating Systems](https://admission.umontreal.ca/cours-et-horaires/cours/ift-2245/)
+- [Treatment of Megadata](https://admission.umontreal.ca/cours-et-horaires/cours/ift-6501/)
+- [Autonomous Vehicles](https://admission.umontreal.ca/cours-et-horaires/cours/ift-6757/)
+
+I have also worked with the [Duckietown Foundation](https://www.duckietown.org/about/duckietown-foundation), whose goal is to
+make robotics and autonomy more approachable subjects for learners of all ages, from preschool to grad school.

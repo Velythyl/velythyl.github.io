@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-08-30 
 inline: true
 ---
 
-A simple inline announcement.
+<a href="http://0.0.0.0:8080/projects/1_project/">I am now a track chair for the ICLR Blog Track 2023! :sparkles:</a>

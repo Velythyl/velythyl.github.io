@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - velythyl
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - iclr-blog-track/iclr-blog-track.github.io
+  - leggedrobotics/legged_gym
+
