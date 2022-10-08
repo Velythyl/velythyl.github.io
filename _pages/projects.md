@@ -13,6 +13,17 @@ horizontal: false
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
+
+    What is a project? What is a publication, if not a project? Is there some intrinsic nuance between the two, or should all publications be posted here?
+    Are blog posts projects too? 😵‍💫
+
+    Well. My definition of a project is one of these:
+<ul>
+<li>Something that wasn't published, but it was done for work, and the main content still lies elsewhere. For example, organizing an event.</li>
+<li>Something that wasn't published, and I just did it for my own fun, not for any educational purpose or whatever. Blog Posts that explain math-ey concepts do not go here. </li>
+</ul>
+     
+
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}

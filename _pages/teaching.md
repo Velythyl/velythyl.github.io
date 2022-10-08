@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Teaching's fun
-nav: true
+nav: false
 nav_order: 5
 ---
 
@@ -18,3 +18,4 @@ Since then, I have taught a number of TA assignments.
 
 I have also worked with the [Duckietown Foundation](https://www.duckietown.org/about/duckietown-foundation), whose goal is to
 make robotics and autonomy more approachable subjects for learners of all ages, from preschool to grad school.
+In fact, I wrote, coded, and QA'd the ["object detection" exercise](https://github.com/duckietown/mooc-exercises/tree/daffy/object-detection) of their MOOC (massively online open class).

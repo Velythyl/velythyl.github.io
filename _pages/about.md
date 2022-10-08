@@ -13,8 +13,8 @@ profile:
     <p><a href="https://github.com/Velythyl">https://github.com/Velythyl</a></p>
     <p><a href="https://twitter.com/velythyl">@velythyl</a></p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -26,6 +26,6 @@ to make RL training faster, more generalizable, and/or more reliable.
 I've recently became enamored with legged robots. Hit me up if you have a cool project idea involving them.
 
 My other computer science interests mainly deal with functional programming and compilation. Oh, how I wish I could use Scala for
-robotics...
+machine learning...
 
-In my spare time I boulder, play video games, and write. I also like learning languages, and am learning Japanese right now. Finally, I am an absolute DnD fiend.
+In my spare time I boulder, play video games, and write. I like learning languages (I am learning Japanese right now). Finally, I am an absolute DnD fiend.
