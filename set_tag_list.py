@@ -1,4 +1,6 @@
 #!/bin/python3
+# This is meant to be used as a pre-commit hook
+
 import os
 tags = []
 for post in os.listdir("./_posts"):
