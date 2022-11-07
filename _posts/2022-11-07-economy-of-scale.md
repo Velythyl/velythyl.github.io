@@ -66,6 +66,6 @@ automation brings us!
 
 This all fits in the idea of a ["solarpunk future"](https://en.wikipedia.org/wiki/Solarpunk), a future where
 everything that *can* be automated **is** automated, and where the automation uses fully renewable/recyclable 
-energy and material sources. **I study robotics because I want to achieve this future.**
+energy and material sources. **I study learning for robotics because I want to achieve this future.**
 
 
