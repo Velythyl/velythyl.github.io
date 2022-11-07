@@ -20,3 +20,4 @@ for x in range(20): # absolute jank but who cares
 
 with open("_config.yml", 'w') as yml:
     yml.write(file)
+
