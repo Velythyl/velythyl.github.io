@@ -21,3 +21,5 @@ for x in range(20): # absolute jank but who cares
 with open("_config.yml", 'w') as yml:
     yml.write(file)
 
+import subprocess
+subprocess.check_output("git add _config.yml", shell=True, universal_newlines=True)
