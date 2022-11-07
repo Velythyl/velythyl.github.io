@@ -213,7 +213,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['quadrupeds', 'iclr', 'robotics', 'conference', 'temp2', 'vulgarization', 'rl']
+display_tags: ['iclr', 'rl', 'vulgarization', 'robotics', 'quadrupeds', 'conference']
 # this tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
