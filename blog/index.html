@@ -20,19 +20,65 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
 
+
   {% if site.display_tags %}
-  <div class="tag-list">
-    <ul class="p-0 m-0">
-      {% for tag in site.display_tags %}
+  <style>
+    details {
+      margin: 0 auto ;
+      //background: #282828;
+      margin-bottom: .5rem;
+      box-shadow: 0 .1rem 1rem -.5rem rgba(0,0,0,.4);
+      border-radius: 5px;
+      overflow: hidden;
+    }
+
+    summary {
+      padding: 1rem;
+      display: block;
+      //background: #333;
+      padding-left: 2.2rem;
+      position: relative;
+      cursor: pointer;
+    }
+
+    summary:before {
+      content: '';
+      border-width: .4rem;
+      border-style: solid;
+      border-color: transparent transparent transparent #fff;
+      position: absolute;
+      top: 1.3rem;
+      left: 1rem;
+      transform: rotate(0);
+      transform-origin: .2rem 50%;
+      transition: .25s transform ease;
+    }
+
+    /* THE MAGIC 🧙‍♀️ */
+    details[open] > summary:before {
+      transform: rotate(90deg);
+    }
+
+    details summary::-webkit-details-marker {
+      display:none;
+    }
+
+  </style>
+  <details class="tag-list">
+    <summary>Tags</summary>
+    <div >
+      <ul class="p-0 m-0">
+        {% for tag in site.display_tags %}
         <li>
           <i class="fas fa-hashtag fa-sm"></i> <a href="{{ tag | prepend: '/blog/tag/' | relative_url }}">{{ tag }}</a>
         </li>
         {% unless forloop.last %}
-          <p>&bull;</p>
+        <p>&bull;</p>
         {% endunless %}
-      {% endfor %}
-    </ul>
-  </div>
+        {% endfor %}
+      </ul>
+    </div>
+  </details>
   {% endif %}
 
   <ul class="post-list">
