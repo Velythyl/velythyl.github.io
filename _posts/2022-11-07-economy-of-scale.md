@@ -43,11 +43,12 @@ socialising, and the like, which all cost energy. Which also implies that the ne
 is greatly diminished: with cheap-enough robots, we can install manufacturing plants much closer to 
 the source of consumption, which isn’t possible with a human workforce that requires amenities close to 
 its jobsite. We could hide enormous robot factories under the earth, allowing for a cleaner surface earth, and
-more protected areas for nature. Robots need neither sun, clean air, nor food.
+more protected areas for nature. Robots need neither sun, nor clean air, nor food.
 
 And I won’t even mention the obvious fact that relocating our current manufacturing 
 workforce in such a way is unfeasible: richer countries only allow worker exploitation 
-when workers are in foreign countries (the incredibly number of sweatshops is proof enough...)
+when workers are in foreign countries (the incredible number of sweatshops in poorer countries that make goods
+for richer countries is proof enough...)
 Automation helps those workers too: as automation scales up, these workers will need to pivot to 
 less labor-intensive jobs,
 and the education rate of affected countries will go up ([as we can infer from the effects of the 
@@ -55,11 +56,16 @@ first industrial revolutions](https://www.aeaweb.org/articles?id=10.1257/mac.3.3
 leading to societal pressure to do better human-rights-wise,
 climate-wise, and energy-consumption-wise.
 
-Economy of scale is a grandiose thing. When all human needs are factored in, 
-robots are insanely more energy efficient. This vast reduction in shipping volume and increase 
+Economy of scale is a grandiose thing. When all human needs are factored in,
+robots are insanely more energy efficient. This vast reduction in shipping volume and increase
 in automation has already begun, and will only accelerate in the coming years.
-
-Our last jump in automation got us from pigeon messengers to the internet. 
-I cannot wait to see where the increase in available human brain power for research and development 
-caused by robotic 
+Our last jump in automation got us from pigeon messengers to the internet.
+I cannot wait to see where the increase in available human brain power for research and development
+caused by robotic
 automation brings us!
+
+This all fits in the idea of a ["solarpunk future"](https://en.wikipedia.org/wiki/Solarpunk), a future where
+everything that *can* be automated **is** automated, and where the automation uses fully renewable/recyclable 
+energy and material sources. **I study robotics because I want to achieve this future.**
+
+
