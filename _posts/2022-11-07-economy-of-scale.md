@@ -36,17 +36,23 @@ Paired with green energy sources, robots are much more energy-efficient than hum
 They can also do jobs humans simply cannot do, such as [recycling used electronics to 
 recover minute amounts of rare minerals](https://www.reuters.com/article/usa-minerals-recycling-idUSL1N298151), or even [recovering plastic pollution from the 
 ocean](https://www.good.is/automated-boats-clean-our-oceans) and, eventually, [from landfills](https://www.forbes.com/sites/kenrickcai/2020/11/12/rise-of-the-recycling-robots/?sh=44b5169365f9).
+Other examples include [killing weeds without the use of pesticides](https://www.freethink.com/technology/farming-robot#:~:text=The%20farming%20robots%3A%20The%20Autonomous,12%20cameras%20scan%20the%20ground.), [planting, watering, and monitoring agriculture](https://farm.bot/),
+or [doing ecological surveys](https://www.scirp.org/html/1-1380033_18956.htm).
 
 Not only are they more efficient at their actual jobs, they also don’t need to commute 
 from home to work, or need any of the obvious human needs, such as recreation, 
-socialising, and the like, which all cost energy. Which also implies that the need for shipping goods 
-is greatly diminished: with cheap-enough robots, we can install manufacturing plants much closer to 
+socialising, and the like, which all cost energy. 
+This also implies that the need for shipping goods to support these very human-specific habits
+is greatly diminished. 
+
+With cheap-enough robots, we can install manufacturing plants much closer to 
 the source of consumption, which isn’t possible with a human workforce that requires amenities close to 
 its jobsite. We could hide enormous robot factories under the earth, allowing for a cleaner surface earth, and
 more protected areas for nature. Robots need neither sun, nor clean air, nor food.
 
 And I won’t even mention the obvious fact that relocating our current manufacturing 
-workforce in such a way is unfeasible: richer countries only allow worker exploitation 
+workforce closer to where their goods are consumed is impossible: richer countries only 
+allow worker exploitation 
 when workers are in foreign countries (the incredible number of sweatshops in poorer countries that make goods
 for richer countries is proof enough...)
 Automation helps those workers too: as automation scales up, these workers will need to pivot to 
@@ -66,6 +72,6 @@ automation brings us!
 
 This all fits in the idea of a ["solarpunk future"](https://en.wikipedia.org/wiki/Solarpunk), a future where
 everything that *can* be automated **is** automated, and where the automation uses fully renewable/recyclable 
-energy and material sources. **I study learning for robotics because I want to achieve this future.**
+energy and material sources. 
 
 
