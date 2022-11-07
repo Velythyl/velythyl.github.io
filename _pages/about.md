@@ -33,4 +33,4 @@ I am also very interested in scientific vulgarization. I co-created the first ev
 My other computer science interests mainly deal with functional programming and compilation. Oh, how I wish I could use [Scala](https://www.scala-lang.org/) for
 machine learning...
 
-In my spare time I boulder, play Dungeon and Dragons, and write. I like learning languages: I am learning Japanese right now, and have an A level in German. I speak French and English fluently.
+In my spare time I boulder, play Dungeon and Dragons, and write. I like learning languages: I speak French and English fluently, I am learning Japanese right now, and I can get by in German.
