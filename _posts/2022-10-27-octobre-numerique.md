@@ -3,7 +3,7 @@ layout: post
 title: IVADO Octobre Numérique
 date: 2022-10-27 11:20:00
 description:
-tags: vulgarization conference quadruped rl robotics
+tags: vulgarization conference quadrupeds rl robotics
 ---
 
 I was invited to present at [IVADO's Digital Octobre event](https://ivado.ca/en/events/ivado-digital-october-2022/).
