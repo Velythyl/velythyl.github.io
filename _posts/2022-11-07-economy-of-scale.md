@@ -74,4 +74,6 @@ This all fits in the idea of a ["solarpunk future"](https://en.wikipedia.org/wik
 everything that *can* be automated **is** automated, and where the automation uses fully renewable/recyclable 
 energy and material sources. 
 
+<img src="/assets/img/economy_of_scale/industry.jpg" style="max-width:100%"/>
 
+<em>Image source: <a href="https://pixabay.com/photos/industry-industry-4-cybernetics-2692640/">pixabay</a></em>

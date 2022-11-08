@@ -20,7 +20,7 @@ if you are really curious.
 
 My presentation was judged first place for my category and awarded a 1000$ prize! <img style='display:inline; height:2em;' src='/assets/img/emojis/60fps_parrot.gif'>
 
-![Photo of me presenting](/assets/img/ivado_octobre_numerique/image_720.png)
+<img src="/assets/img/ivado_octobre_numerique/image_720.png" style="max-width:100%"/>
 
 <em>Photo of me presenting during the event. Image source: <a href="https://www.facebook.com/ivado.qc">IVADO's Facebook page</a></em>
 
