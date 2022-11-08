@@ -18,7 +18,7 @@ with robustifying reinforcement learning for quadruped robots.
 You can look at [my slides](https://docs.google.com/presentation/d/1WseemCwGYg1pdZx7lHDFR5czjfosMkSFxXDEUTMup0U/edit?usp=sharing) 
 if you are really curious.
 
-My presentation was judged first place for my category and awarded a 1000$ prize! <img style='display:inline; height:2em;' src='/assets/img/emojis/60fps_parrot.gif'>
+My presentation was judged first place for my category and, thanks to [Videns Analytics](https://www.vidensanalytics.com/), I was awarded a 1000$ prize! <img style='display:inline; height:2em;' src='/assets/img/emojis/60fps_parrot.gif'>
 
 <img src="/assets/img/ivado_octobre_numerique/image_720.png" style="max-width:100%"/>
 
