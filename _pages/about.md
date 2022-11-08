@@ -9,9 +9,21 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>charlie.gauthier@mila.quebec</p>
-    <p><a href="https://github.com/Velythyl">https://github.com/Velythyl</a></p>
-    <p><a href="https://twitter.com/velythyl">@velythyl</a></p>
+    <p></p>
+    <div class="profileaddrcontainer">
+    <a class="profileaddrline" href="mailto:charlie.gauthier@mila.quebec">
+    <img src="/assets/img/emojis/email.png"  class="profileaddrlineimg"/>
+    <span class="profileaddrlinetext">charlie.gauthier@mila.quebec</span>
+    </a>
+    <a class="profileaddrline" href="https://github.com/Velythyl">
+      <img src="/assets/img/emojis/github.png"  class="profileaddrlineimg"/>
+      <span class="profileaddrlinetext">Velythyl</span>
+    </a>
+    <a class="profileaddrline" href="https://twitter.com/velythyl">
+      <img src="/assets/img/emojis/twitter.png" class="profileaddrlineimg"/>
+      <span class="profileaddrlinetext">@velythyl</span>
+    </a>
+    </div>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

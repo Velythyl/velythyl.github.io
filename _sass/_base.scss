@@ -651,3 +651,23 @@ html.transition *:after {
     }
   }
 }
+
+.profileaddrcontainer{
+  display: flex;
+  flex-direction: column;
+}
+.profileaddrline{
+  display: flex;
+  flex-direction: row;
+}
+.profileaddrlineimg{
+  flex: 0 1 auto;
+  height: 2em;
+  width: 2em;
+  max-height: 2em;
+  max-width: 2em;
+  margin-right: 1em;
+}
+.profileaddrlinetext{
+  flex: 1 1 auto;
+}
