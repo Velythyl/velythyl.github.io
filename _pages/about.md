@@ -32,7 +32,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hey there! My name is Charlie Gauthier. I'm currently a masters' student @ [Mila](https://mila.quebec/en/) with [Liam Paull](https://liampaull.ca/). 
-I am starting my PhD with [Liam Paull](https://mila.quebec/en/) and [Glen Berseth](https://neo-x.github.io/) in winter 2023.
+I am starting my PhD with Liam Paull and [Glen Berseth](https://neo-x.github.io/) in winter 2023.
 
 I am super interested in practical RL, robotics, and vision for robotics. Specifically, I find ways to create autocurricula
 to make RL training faster, more generalizable, and/or more reliable. One of the reasons I work in
