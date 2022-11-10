@@ -14,13 +14,14 @@ I was paired with [Acrylic Robotics](https://acrylicrobotics.ca/), an art-tech s
 Robotics is to democratize art, allowing up-and-coming artists to duplicate their pieces in order to reach
 a much, much wider potential market. To survive from art, one must normally go through the gallery system,
 where curated pieces sell for large sums of money. New artists are normally not welcome, and even when they 
-are, they cannot viably live from their art: because they are new to the art world, the galleries price their
-pieces relatively low. Thanks to Acrylic Robotics, they will be able to sell their one of their pieces many 
-times. So even though their pieces still are not priced very high, they can still viably survive from solely
-making art.
+are, they cannot viably live from their art: because they are new to the art world, the galleries set their 
+pieces' prices to relatively low amounts. Thanks to Acrylic Robotics, these new artists will be able to sell the same 
+art piece many 
+times. This will help them survive from solely
+making art and widen their reach to new art enjoyers.
 
-During my time in the Scientist in Residence program, I helped shaped Acrylic Robotics' direction by giving
-them insights into the world of Deep Learning.
+During my time in the Scientist in Residence program, I helped shape Acrylic Robotics' direction by giving 
+insights into the world of Deep Learning.
 
 Here's a cool video of the [Mecademic 500](https://www.mecademic.com/en/meca500-robot-arm) painting a piece 
 using Acrylic Robotics' technology.
