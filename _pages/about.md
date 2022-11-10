@@ -13,7 +13,8 @@ profile:
     <div class="profileaddrcontainer">
     <a class="profileaddrline" href="mailto:charlie.gauthier@mila.quebec">
     <img src="/assets/img/emojis/email.png"  class="profileaddrlineimg"/>
-    <span class="profileaddrlinetext">charlie.gauthier@mila.quebec</span>
+    <div class="profileaddrlinetext" style="overflow: wrap;">charlie.gauthier
+    @mila.quebec</div>
     </a>
     <a class="profileaddrline" href="https://github.com/Velythyl">
       <img src="/assets/img/emojis/github.png"  class="profileaddrlineimg"/>

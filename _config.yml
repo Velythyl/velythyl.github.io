@@ -213,7 +213,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['manipulation', 'iclr', 'conference', 'vulgarization', 'robot-arm', 'climate-change', 'art', 'rl', 'opinion-piece', 'quadrupeds', 'robotics']
+display_tags: ['robotics', 'conference', 'robot-arm', 'quadrupeds', 'rl', 'opinion-piece', 'iclr', 'vulgarization', 'art', 'manipulation', 'climate-change']
 # this tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
