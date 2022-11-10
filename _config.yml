@@ -16,7 +16,7 @@ footer_text: >
 keywords: ml, rl, robotics, academic-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: emojis/nn.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://velythyl.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -213,7 +213,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['quadrupeds', 'iclr', 'opinion-piece', 'climate-change', 'manipulation', 'vulgarization', 'conference', 'art', 'robot-arm', 'rl', 'robotics']
+display_tags: ['iclr', 'climate-change', 'opinion-piece', 'conference', 'quadrupeds', 'robot-arm', 'robotics', 'manipulation', 'vulgarization', 'art', 'rl']
 # this tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
