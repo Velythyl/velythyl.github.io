@@ -103,7 +103,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Iterative Causality # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: My thoughts and the like
+blog_description: Here, I lay down my thoughts and break down my projects
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -213,7 +213,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['iclr', 'climate-change', 'opinion-piece', 'conference', 'quadrupeds', 'robot-arm', 'robotics', 'manipulation', 'vulgarization', 'art', 'rl']
+display_tags: ['manipulation', 'iclr', 'conference', 'vulgarization', 'robot-arm', 'climate-change', 'art', 'rl', 'opinion-piece', 'quadrupeds', 'robotics']
 # this tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
