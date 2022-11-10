@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scientist in residence// Acrylic Robotics
+title: IVADO//Scientist in residence//Acrylic Robotics
 date: 2022-11-07 15:39:00
 tags: art manipulation robot-arm
 description: Painting reproduction using real paint and artificial arms

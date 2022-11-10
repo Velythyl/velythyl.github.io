@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mila Robotics Summer School
+title: Mila//Robotics Summer School
 date: 2022-10-07 23:39:00
 tags: quadrupeds rl
 description:
