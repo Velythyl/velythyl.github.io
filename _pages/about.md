@@ -31,14 +31,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hey there! My name is Charlie Gauthier. I'm currently a masters' student @ [Mila](https://mila.quebec/en/) with [Liam Paull](https://liampaull.ca/). 
-I am starting my PhD with Liam Paull and [Glen Berseth](https://neo-x.github.io/) in winter 2023.
+Hey there! My name is Charlie Gauthier. I'm currently a PhD student @ [Mila](https://mila.quebec/en/) with [Liam Paull](https://liampaull.ca/) and [Glen Berseth](https://neo-x.github.io/).
 
-I am super interested in practical RL, robotics, and vision for robotics. Specifically, I find ways to create autocurricula
-to make RL training faster, more generalizable, and/or more reliable. One of the reasons I work in
+I am interested in practical RL, robotics, and vision for robotics. Specifically, I am interested "morphological adaptation" in RL, e.g. training RL for a wide array of robotic morphologies and subsequently adapting zero-shot to a new morphology. 
+One of the reasons I work in
 learning for robotics 
-is because I believe automation is the single most useful way to solve our current climate crisis.
-See my [blogpost on the subject]({{'/blog/2022/economy-of-scale/' | site.baseurl}}) for more insights into my thinking.
+is because I believe automation is the single most promising way to solve our current climate crisis.
 
 I've recently became enamored with legged robots. Hit me up if you have a cool project idea involving them.
 
@@ -52,6 +50,6 @@ My other computer science interests mainly deal with functional programming and 
 Oh, how I wish I could use [Scala](https://www.scala-lang.org/) for
 machine learning...
 
-In my spare time I boulder, play Dungeon and Dragons, and write. 
-I like learning languages: I speak French and English fluently, I am learning Japanese right now, 
+In my spare time I boulder, hangout with friends, got to a lot of techno and jazz events, and write. 
+I like learning languages: I speak French and English fluently, I am learning Japanese right now (yes, yes, it's to read manga, don't judge me), 
 and I can get by in German.
