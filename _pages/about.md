@@ -47,8 +47,6 @@ in addition to my main research work, I'd like to work with "mainstream media"
 to vulgarize robotics and deep learning for the general population.
 
 My other computer science interests mainly deal with functional programming and compilation. 
-Oh, how I wish I could use [Scala](https://www.scala-lang.org/) for
-machine learning...
 
 In my spare time I boulder, hangout with friends, got to a lot of techno and jazz events, and write. 
 I like learning languages: I speak French and English fluently, I am learning Japanese right now (yes, yes, it's to read manga, don't judge me), 
