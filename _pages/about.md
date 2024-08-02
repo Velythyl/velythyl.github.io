@@ -38,11 +38,11 @@ One of the reasons I work in
 learning for robotics 
 is because I believe automation is the single most promising way to solve our current climate crisis.
 
-I've recently became enamored with legged robots. Hit me up if you have a cool project idea involving them.
+<!-- I've recently became enamored with legged robots. Hit me up if you have a cool project idea involving them. -->
 
 I am also very interested in scientific vulgarization.
 I co-created the first ever blogpost track for ML conferences
-(see [here]({{'/blog/2022/iclr-bt-2022/' | site.baseurl}})). In the future, 
+(see [here]({{'/blog/2022/iclr-bt-2022/' | site.baseurl}})) and plan on participating in the track for the foreseeable future. In the future, 
 in addition to my main research work, I'd like to work with "mainstream media"
 to vulgarize robotics and deep learning for the general population.
 
