@@ -31,7 +31,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hey there! My name is Charlie Gauthier. I'm currently a PhD student @ [Mila](https://mila.quebec/en/) with [Liam Paull](https://liampaull.ca/) and [Glen Berseth](https://neo-x.github.io/).
+Hey there! My name is Charlie Gauthier. I'm a PhD student @ [Mila](https://mila.quebec/en/) with [Liam Paull](https://liampaull.ca/).
 
 I am interested in practical RL, robotics, and vision for robotics. Specifically, I am interested "morphological adaptation" in RL, e.g. training RL for a wide array of robotic morphologies and subsequently adapting zero-shot to a new morphology. 
 One of the reasons I work in
