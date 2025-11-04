@@ -1,6 +1,8 @@
 github_users:
   - velythyl
 
+repo_description_lines_max: 2
+
 github_repos:
   - iclr-blog-track/iclr-blog-track.github.io
   - leggedrobotics/legged_gym
