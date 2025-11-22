@@ -31,23 +31,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hey there! My name is Charlie Gauthier. I'm a PhD student @ [Mila](https://mila.quebec/en/) with [Liam Paull](https://liampaull.ca/).
+Hey there! My name is Charlie Gauthier. I’m a PhD student @ Mila with Liam Paull. 
 
-I am interested in practical RL, robotics, and vision for robotics. Specifically, I am interested "morphological adaptation" in RL, e.g. training RL for a wide array of robotic morphologies and subsequently adapting zero-shot to a new morphology. 
-One of the reasons I work in
-learning for robotics 
-is because I believe automation is the single most promising way to solve our current climate crisis.
+I am interested in practical RL and planning for robotics. Specifically, I am interested in “morphological adaptation” in RL, e.g. training a model for a wide array of robotic morphologies and subsequently adapting zero-shot to a new morphology, or developing open-vocabulary reasoning methods that can plan for a wide array of robotic morphologies. 
 
-<!-- I've recently became enamored with legged robots. Hit me up if you have a cool project idea involving them. -->
+One of the reasons I work in learning for robotics is because I believe automation is the single most promising way to solve our current climate crisis. 
 
-I am also very interested in scientific vulgarization.
-I co-created the first ever blogpost track for ML conferences
-(see [here]({{'/blog/2022/iclr-bt-2022/' | site.baseurl}})) and plan on participating in the track for the foreseeable future. In the future, 
-in addition to my main research work, I'd like to work with "mainstream media"
-to vulgarize robotics and deep learning for the general population.
+I am also very interested in scientific vulgarization. I co-created the first ever blogpost track for ML conferences (see here), which has seen sustained success at ICLR since the inception of the track. 
 
-My other computer science interests mainly deal with functional programming and compilation. 
+My other computer science interests mainly deal with functional programming and compilation; as I work in ML, this manifests in an unending love for Jax ;P
 
-In my spare time I boulder, hangout with friends, got to a lot of techno and jazz events, and write. 
-I like learning languages: I speak French and English fluently, I am learning Japanese right now (yes, yes, it's to read manga, don't judge me), 
-and I can get by in German.
+In my spare time I boulder, hangout with friends, got to a lot of techno and jazz events, and write. I like learning languages: I speak French and English fluently, I am learning Japanese right now (yes, yes, it’s to read manga, don’t judge me), and I can get by in German.
+
