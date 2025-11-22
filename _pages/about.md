@@ -39,7 +39,7 @@ One of the reasons I work in learning for robotics is because I believe automati
 
 I am also very interested in scientific vulgarization. I co-created the first ever blogpost track for ML conferences (see here), which has seen sustained success at ICLR since the inception of the track. 
 
-My other computer science interests mainly deal with functional programming and compilation; as I work in ML, this manifests in an unending love for Jax ;P
+My other computer science interests mainly deal with functional programming and compilation; as I work in ML, this manifests in an unending love for Jax 
 
 In my spare time I boulder, hangout with friends, got to a lot of techno and jazz events, and write. I like learning languages: I speak French and English fluently, I am learning Japanese right now (yes, yes, it’s to read manga, don’t judge me), and I can get by in German.
 
