@@ -37,7 +37,7 @@ I am interested in practical RL and planning for robotics. Specifically, I am in
 
 One of the reasons I work in learning for robotics is because I believe automation is the single most promising way to solve our current climate crisis. 
 
-I am also very interested in scientific vulgarization. I co-created the first ever blogpost track for [ML conferences](https://iclr-blog-track.github.io/home/), which has seen sustained success at ICLR since the inception of the track. 
+I am also very interested in scientific vulgarization. I co-created the first ever blogpost track for [ML conferences](https://iclr-blog-track.github.io/home/) (not counting Distill, which was its own non-conference thing!). Our track has seen sustained growth at ICLR since the its inception. 
 
 My other computer science interests mainly deal with functional programming and compilation; as I work in ML, this manifests in an unending love for [Jax](https://github.com/jax-ml/jax) 
 
