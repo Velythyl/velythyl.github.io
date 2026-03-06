@@ -2,11 +2,12 @@
 layout: page
 title: workspace
 permalink: /workspace
-description: Short-lived project links.
+description: Ephemereal project hosting. 
 nav: false
 ---
 
-This page is intentionally hidden from navigation.
+Do not expect all links to work, and do not expect a link that works today to work tomorrow ;P
+This page is intentionally hidden from the rest of the website navigation.
 
 ## Active projects
 
